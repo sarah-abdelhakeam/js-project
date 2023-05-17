@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    padding: 10px;
+}
+
+aside{
+    display: block;
+    background-color: rgb(6, 247, 59);
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    height: 500px;
+    width: 200px;
+    margin: 30px;
+    padding: 40px;
+    clear: both;
+    float: left;
+  
+}
+label{
+    padding: 10px;
+}
+section input{
+    padding: 10px;
+    margin-top: 15px;
+}
+
